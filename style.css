@@ -1,0 +1,65 @@
+body {
+background:#e8adff;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+height:100%;
+}
+
+.wrapper {
+width: 800px;
+margin: 30px auto;
+color:#fff;
+text-align:center;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+
+
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 3rem;
+    color: #040403;
+    position: relative;
+    top: 6rem;
+}
+
+a{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2rem;
+    color: #38004e;
+    position: relative;
+    top: 3rem;
+}
+
+
+p{
+    font-size: 1.5rem;
+    position: relative;
+    top: 5rem;
+}
+
+
+#seconds, #tens{
+  font-size:2em;
+}
+
+button{
+	border: none;
+	padding: 17px 57px 16px 52px;
+	text-align: center;	
+	color: black;
+	border-radius: 4px;
+	font-family: 'Cairo', sans-serif;
+	cursor: pointer;
+    position: relative;
+    top: 6rem;
+ 
+}
+
+button:hover{
+    background-color: #e4e2e2;
+}
